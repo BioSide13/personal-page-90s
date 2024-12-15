@@ -44,6 +44,17 @@ h3 {
     color: #ffff00; 
 }
 
+.center-box li {
+    margin-top: 10px;
+    color: #98FF98;
+    list-style-type: none;
+}
+
+.center-box h4 {
+    margin: 10px;
+    color: #ff00ff;
+}
+
 .center-box a {
     display: inline-block;
     margin-top: 10px;
