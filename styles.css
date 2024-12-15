@@ -40,7 +40,8 @@ h3 {
 }
 
 .center-box p {
-    color: #0000ff; 
+    margin-top: 10px;
+    color: #ffff00; 
 }
 
 .center-box a {
