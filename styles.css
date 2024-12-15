@@ -68,8 +68,14 @@ h3 {
         "manager weather"
         "finance exa";
     grid-gap: 20px;
-    width: 100%;
+    width: 95%;
     height: 100%;
+}
+
+.projects img {
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 40%;
 }
 
 .manager {
@@ -88,6 +94,5 @@ h3 {
 }
 
 .exa {
-    display: flex;
     grid-area: exa;
 }
